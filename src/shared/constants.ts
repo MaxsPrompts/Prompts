@@ -1,0 +1,1 @@
+export const API_URL = 'https://dev-api.datatool.com:445/v1';
